@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: url(./components/funFactBackGround.jpg);
+    background-size: cover;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+
+
+
+  #Highground {
+    width: 200px;
+    position: relative;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  #Duels {
+    width: 200px;
+    position: relative;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  #Memes {
+    width: 200px;
+    position: relative;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .list {
+    font-size: 20pt;
+    color: rgb(153, 22, 22);
+  }
+  
+  .top {
+    font-size: 40pt;
+    text-shadow: 2px 2px white;
+    margin-top: 3rem;
+  }
+  
+  
